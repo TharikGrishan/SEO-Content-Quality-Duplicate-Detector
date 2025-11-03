@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter Notebook Files
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
