@@ -1,9 +1,9 @@
 pandas
 numpy
 scikit-learn
-beautifulsoup4
-textstat
-nltk
 joblib
 requests
+beautifulsoup4  
+nltk
+textstat
 streamlit
