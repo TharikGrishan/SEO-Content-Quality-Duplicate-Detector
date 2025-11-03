@@ -6,3 +6,4 @@ textstat
 nltk
 joblib
 requests
+streamlit
