@@ -15,4 +15,4 @@ The code is executed entirely within the Jupyter Notebook.
 ## Live Deployment
 The Content Quality Pipeline is deployed as an interactive web application on Streamlit Cloud:
 
-[**Launch the SEO Content Detector App**]([https://seo-content-quality-duplicate-detector-lrx7kocmspwesvusemfuak.streamlit.app/])
+[**Launch the SEO Content Detector App**](https://seo-content-quality-duplicate-detector-lrx7kocmspwesvusemfuak.streamlit.app/)
