@@ -11,3 +11,8 @@ The code is executed entirely within the Jupyter Notebook.
 * **Overall Accuracy:** 0.7143
 * **F1-Score (Low Quality):** 0.87
 * **F1-Score (Medium Quality):** 0.62
+
+## Live Deployment
+The Content Quality Pipeline is deployed as an interactive web application on Streamlit Cloud:
+
+[**Launch the SEO Content Detector App**]([https://seo-content-quality-duplicate-detector-lrx7kocmspwesvusemfuak.streamlit.app/])
