@@ -1,0 +1,8 @@
+url1,url2,similarity
+https://guardiandigital.com/resources/blog/guide-on-phishing,https://inspiredelearning.com/blog/phishing-protection-checklist/,0.8227
+https://en.wikipedia.org/wiki/SD-WAN,https://www.cisco.com/site/us/en/learn/topics/networking/what-is-sd-wan.html,0.8241
+https://en.wikipedia.org/wiki/SD-WAN,https://www.fortinet.com/resources/cyberglossary/sd-wan-explained,0.895
+https://www.cisco.com/site/us/en/learn/topics/networking/what-is-sd-wan.html,https://www.fortinet.com/resources/cyberglossary/sd-wan-explained,0.8505
+https://www.microsoft.com/en-us/security/business/security-101/what-is-zero-trust-network-access-ztna,https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-network-access,0.8873
+https://copyblogger.com/content-marketing/,https://www.twilio.com/en-us/blog/insights/content-marketing-best-practices,0.8145
+https://copyblogger.com/content-marketing/,https://mailchimp.com/marketing-glossary/content-marketing/,0.8037
